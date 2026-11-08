@@ -69,5 +69,7 @@ playagain = False
 
 sys.exit("BYE!🤷")
 
-play_rps()
+return play_rps()
+
+rock_paper_scissors = rps()
 
